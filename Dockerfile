@@ -1,26 +1,13 @@
 FROM node:24.0.1-bullseye
 
-# Install Nix dan dependensi sistem
+# Update repositori dan install dependensi sistem
 RUN apt-get update && \
   apt-get install -y \
   ffmpeg \
   imagemagick \
-  webp \
-  curl \
-  xz-utils \
-  ca-certificates && \
-  curl -L https://nixos.org/nix/install | bash && \
-  . /root/.nix-profile/etc/profile.d/nix.sh && \
-  nix-channel --add https://nixos.org/channels/nixpkgs-unstable nixpkgs && \
-  nix-channel --update && \
-  nix-env -iA nixpkgs.nodejs_24 && \
+  webp && \
   apt-get upgrade -y && \
   rm -rf /var/lib/apt/lists/*
-
-# Set environment agar Nix bisa digunakan
-ENV USER=root
-ENV PATH=/root/.nix-profile/bin:$PATH
-ENV NIX_PATH=/root/.nix-defexpr/channels
 
 # Set direktori kerja
 WORKDIR /app
