@@ -1,0 +1,21 @@
+[cmdline]
+0=
+
+[input2]
+0=/root/
+
+[input-def]
+0=*
+
+[Dir Hist New Right Panel]
+0=/home/mrfql/peel
+1=/
+2=/home
+3=/home/mrfql
+4=/home/mrfql/Downloads
+5=/root
+
+[Dir Hist New Left Panel]
+0=/home/mrfql/peel
+1=/home/mrfql
+2=/root

@@ -1,0 +1,17 @@
+0 verbose cli /root/.nvm/versions/node/v24.0.2/bin/node /root/.nvm/versions/node/v24.0.2/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@11.4.0
+2 info using node@v24.0.2
+3 silly config load:file:/root/.nvm/versions/node/v24.0.2/lib/node_modules/npm/npmrc
+4 silly config load:file:/root/.npmrc
+5 silly config load:file:/root/.nvm/versions/node/v24.0.2/etc/npmrc
+6 verbose title npm bin
+7 verbose argv "bin" "--global"
+8 verbose logfile logs-max:10 dir:/root/.npm/_logs/2025-05-19T11_09_47_724Z-
+9 verbose logfile /root/.npm/_logs/2025-05-19T11_09_47_724Z-debug-0.log
+10 silly logfile done cleaning log files
+11 verbose cwd /root/.nvm/versions/node/v24.0.2/lib/node_modules/yarn
+12 verbose os Linux 6.1.0-35-amd64
+13 verbose node v24.0.2
+14 verbose npm  v11.4.0
+15 verbose exit 1
+16 verbose code 1

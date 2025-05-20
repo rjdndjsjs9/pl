@@ -1,0 +1,18 @@
+[
+  [
+    "device1",
+    {
+      "status": "connecting",
+      "phoneNumber": "6288227606701",
+      "isNewDevice": true
+    }
+  ],
+  [
+    "device2",
+    {
+      "status": "reconnecting",
+      "phoneNumber": "6285174197856",
+      "isNewDevice": true
+    }
+  ]
+]

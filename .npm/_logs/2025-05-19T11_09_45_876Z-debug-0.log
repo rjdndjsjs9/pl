@@ -1,0 +1,31 @@
+0 verbose cli /root/.nvm/versions/node/v24.0.2/bin/node /root/.nvm/versions/node/v24.0.2/bin/npm
+1 info using npm@11.4.0
+2 info using node@v24.0.2
+3 silly config load:file:/root/.nvm/versions/node/v24.0.2/lib/node_modules/npm/npmrc
+4 silly config load:file:/root/.npmrc
+5 silly config load:file:/root/.nvm/versions/node/v24.0.2/etc/npmrc
+6 verbose title npm i yarn
+7 verbose argv "i" "--global" "yarn"
+8 verbose logfile logs-max:10 dir:/root/.npm/_logs/2025-05-19T11_09_45_876Z-
+9 verbose logfile /root/.npm/_logs/2025-05-19T11_09_45_876Z-debug-0.log
+10 silly packumentCache heap:2120744960 maxSize:530186240 maxEntrySize:265093120
+11 silly logfile done cleaning log files
+12 silly idealTree buildDeps
+13 silly fetch manifest yarn@*
+14 silly packumentCache full:https://registry.npmjs.org/yarn cache-miss
+15 http fetch GET 200 https://registry.npmjs.org/yarn 466ms (cache miss)
+16 silly packumentCache full:https://registry.npmjs.org/yarn set size:undefined disposed:false
+17 silly placeDep ROOT yarn@1.22.22 OK for:  want: *
+18 silly reify moves {}
+19 http cache yarn@https://registry.npmjs.org/yarn/-/yarn-1.22.22.tgz 0ms (cache hit)
+20 silly tarball no local data for yarn@https://registry.npmjs.org/yarn/-/yarn-1.22.22.tgz. Extracting by manifest.
+21 http fetch GET 200 https://registry.npmjs.org/yarn/-/yarn-1.22.22.tgz 908ms (cache miss)
+22 info run yarn@1.22.22 preinstall node_modules/yarn :; (node ./preinstall.js > /dev/null 2>&1 || true)
+23 info run yarn@1.22.22 preinstall { code: 0, signal: null }
+24 silly ADD node_modules/yarn
+25 verbose cwd /root
+26 verbose os Linux 6.1.0-35-amd64
+27 verbose node v24.0.2
+28 verbose npm  v11.4.0
+29 verbose exit 0
+30 info ok

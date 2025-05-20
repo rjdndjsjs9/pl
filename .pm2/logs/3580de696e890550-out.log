@@ -1,0 +1,2499 @@
+ ❯ Status : Waiting for database connection...
+
+◤━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◥
+    ❀  P R I M R O S E  L O T U S ❀
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
+ ❯ BOT Name : lorric-bot
+ ❯ Username : @lorric_bot
+ ❯ Status   : ● CONNECTED
+ ❯ MongoDB  : ● CONNECTED
+ ❯ Time     : 3:23:56 AM
+◣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◢
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 515
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *CONNECTION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Connected ✅
+╰═════════════════❀
+Creating session...
+Searching for new devices...
+device1
+
+📱 Starting session creation/update...
+
+
+[device1] 🔄 Starting connection...
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Replaced ⚠️
+│ ❀ Info : Connection replaced on another device
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *CONNECTION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Connected ✅
+╰═════════════════❀
+Number: 6288227606701
+Status: ✅ connected
+
+Devices Connected: 1
+
+
+[device1] Attempting to reconnect...
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Replaced ⚠️
+│ ❀ Info : Connection replaced on another device
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *CONNECTION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Connected ✅
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 405
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+[device2] ✅ Successfully removed from request.json
+[device2] ✅ Successfully removed from sessions.json
+[device2] ✅ Successfully deleted session folder
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Error ⚠️
+│ ❀ Code : 515
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *CONNECTION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Connected ✅
+╰═════════════════❀
+Creating session...
+Searching for new devices...
+device1
+device2
+
+📱 Starting session creation/update...
+
+
+[device1] 🔄 Starting connection...
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Replaced ⚠️
+│ ❀ Info : Connection replaced on another device
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *CONNECTION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Connected ✅
+╰═════════════════❀
+
+[device2] 🔄 Starting connection...
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Replaced ⚠️
+│ ❀ Info : Connection replaced on another device
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *CONNECTION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Connected ✅
+╰═════════════════❀
+Number: 6288227606701
+Status: ✅ connected
+Number: 6285174197856
+Status: ✅ connected
+
+Devices Connected: 2
+
+
+[device1] Attempting to reconnect...
+
+[device2] Attempting to reconnect...
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Replaced ⚠️
+│ ❀ Info : Connection replaced on another device
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *CONNECTION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Connected ✅
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Replaced ⚠️
+│ ❀ Info : Connection replaced on another device
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *CONNECTION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Connected ✅
+╰═════════════════❀
+[device1] ℹ️ Trying to join group...
+[device1] ❌ No permission to send messages, leaving group...
+[device2] ℹ️ Trying to join group...
+[device2] ❌ No permission to send messages, leaving group...
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Replaced ⚠️
+│ ❀ Info : Connection replaced on another device
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *CONNECTION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Connected ✅
+╰═════════════════❀
+Closing session: SessionEntry {
+  _chains: {
+    BSQT9rH17KsMgCAD4vVRZiEBI6gw91uwnxoznkh31wAZ: { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'Bc2MQd/a0IrBElERr2ulNoXZmzLGhe0TLmPbL5eu4L9v': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 589958126,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 cd 8c 41 df da d0 8a c1 12 51 11 af 6b a5 36 85 d9 9b 32 c6 85 ed 13 2e 63 db 2f 97 ae e0 bf 6f>,
+      privKey: <Buffer 18 c8 05 5a 00 d6 53 72 45 13 5b 63 4b bf a1 e0 c9 32 fa 5e 9c 53 2e 40 77 88 94 10 2f b7 ee 48>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 24 13 f6 b1 f5 ec ab 0c 80 20 03 e2 f5 51 66 21 01 23 a8 30 f7 5b b0 9f 1a 33 9e 48 77 d7 00 19>,
+    previousCounter: 0,
+    rootKey: <Buffer 25 61 c2 84 ac e9 8d 34 39 45 10 d0 a0 69 ff d8 ca 08 a4 29 0e b3 46 48 5d 3c 72 07 b6 5c 55 47>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 25 06 23 84 20 76 83 19 ad 3a 15 33 39 8f 0e 16 ae 5b ca b1 ff 79 3a b9 d1 c6 a6 1d 92 1a a3 07>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1747558272136,
+    created: 1747558272136,
+    remoteIdentityKey: <Buffer 05 a8 aa 21 06 36 e6 62 0d b3 54 86 7c e7 14 ea a9 ae f3 8c 15 95 e2 e1 50 b5 15 15 57 eb 69 8a 56>
+  }
+}
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device2
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Disconnected 🔄
+│ ❀ Info : Connection lost
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *CONNECTION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Connected ✅
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *CONNECTION STATUS* ⚘
+│ ❀ ID : device2
+│ ❀ Status : Connected ✅
+╰═════════════════❀
+🟡 MongoDB Disconnected
+Mencoba koneksi ulang... (1/5)
+🟡 MongoDB Disconnected
+Mencoba koneksi ulang... (2/5)
+🟡 MongoDB Disconnected
+Mencoba koneksi ulang... (3/5)
+🟡 MongoDB Disconnected
+Mencoba koneksi ulang... (4/5)
+🟡 MongoDB Disconnected
+Mencoba koneksi ulang... (5/5)
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+🟡 MongoDB Disconnected
+Closing session: SessionEntry {
+  _chains: {
+    'Bew4wAw+MgRlowDdOHrVNRdKuO5BCOOXfbgWpK7D+V1F': { chainKey: [Object], chainType: 2, messageKeys: {} },
+    'Bc9KcAt3oEZMCid/eSxXiH8dSSc4GagEL5kdfLPpl2pY': { chainKey: [Object], chainType: 1, messageKeys: {} }
+  },
+  registrationId: 107779684,
+  currentRatchet: {
+    ephemeralKeyPair: {
+      pubKey: <Buffer 05 cf 4a 70 0b 77 a0 46 4c 0a 27 7f 79 2c 57 88 7f 1d 49 27 38 19 a8 04 2f 99 1d 7c b3 e9 97 6a 58>,
+      privKey: <Buffer 38 4a 64 72 52 60 de 5e 24 f4 e0 4e 9b e6 46 f9 48 bf 2a 1a 59 fe 11 fc 6d 2b 7a 70 a9 c1 43 54>
+    },
+    lastRemoteEphemeralKey: <Buffer 05 ec 38 c0 0c 3e 32 04 65 a3 00 dd 38 7a d5 35 17 4a b8 ee 41 08 e3 97 7d b8 16 a4 ae c3 f9 5d 45>,
+    previousCounter: 0,
+    rootKey: <Buffer 05 03 91 bf ae d9 87 36 58 54 b3 6c a3 05 2a 15 31 e5 30 9a 70 cf 82 8c 8a ab 3a 85 c2 8f 09 a8>
+  },
+  indexInfo: {
+    baseKey: <Buffer 05 76 c5 ed 4f da 90 fe c6 64 84 4e ea ab 4a 92 cc de bc 7f 74 a2 d4 0e bd dc a5 32 d5 cd 90 94 56>,
+    baseKeyType: 2,
+    closed: -1,
+    used: 1747577892518,
+    created: 1747577892518,
+    remoteIdentityKey: <Buffer 05 0d e9 eb ce d9 89 40 be 7f ad 67 b6 de fe 7f a7 93 25 6d 7c 5a f0 14 80 fc 5c 1d e9 9a 15 61 53>
+  }
+}
+╭═════════════════❀
+│  ⚘ *SESSION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Closed ⚠️
+│ ❀ Info : Connection closed
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *RECONNECTION* ⚘
+│ ❀ ID : device1
+│ ❀ Attempt : 1/5
+│ ❀ Status : Reconnecting 🔄
+╰═════════════════❀
+╭═════════════════❀
+│  ⚘ *CONNECTION STATUS* ⚘
+│ ❀ ID : device1
+│ ❀ Status : Connected ✅
+╰═════════════════❀

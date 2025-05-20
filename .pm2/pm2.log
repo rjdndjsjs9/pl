@@ -1,0 +1,71 @@
+2025-05-18T03:23:44: PM2 log: ===============================================================================
+2025-05-18T03:23:44: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2025-05-18T03:23:44: PM2 log: Time                 : Sun May 18 2025 03:23:44 GMT-0400 (Eastern Daylight Time)
+2025-05-18T03:23:44: PM2 log: PM2 version          : 6.0.6
+2025-05-18T03:23:44: PM2 log: Node.js version      : 24.0.2
+2025-05-18T03:23:44: PM2 log: Current arch         : x64
+2025-05-18T03:23:44: PM2 log: PM2 home             : /root/.pm2
+2025-05-18T03:23:44: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2025-05-18T03:23:44: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2025-05-18T03:23:44: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2025-05-18T03:23:44: PM2 log: Application log path : /root/.pm2/logs
+2025-05-18T03:23:44: PM2 log: Worker Interval      : 30000
+2025-05-18T03:23:44: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2025-05-18T03:23:44: PM2 log: Concurrent actions   : 2
+2025-05-18T03:23:44: PM2 log: SIGTERM timeout      : 1600
+2025-05-18T03:23:44: PM2 log: Runtime Binary       : /root/.nvm/versions/node/v24.0.2/bin/node
+2025-05-18T03:23:44: PM2 log: ===============================================================================
+2025-05-18T03:23:44: PM2 log: App [3580de696e890550:0] starting in -fork mode-
+2025-05-18T03:23:44: PM2 log: App [3580de696e890550:0] online
+2025-05-18T23:06:21: PM2 log: Stopping app:3580de696e890550 id:0
+2025-05-18T23:06:22: PM2 log: App [3580de696e890550:0] exited with code [0] via signal [SIGINT]
+2025-05-18T23:06:22: PM2 log: pid=31292 msg=process killed
+2025-05-18T23:09:37: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-18T23:09:37: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-18T23:24:24: PM2 log: Stopping app:40a7bbeae3619c90 id:0
+2025-05-18T23:24:24: PM2 log: App [40a7bbeae3619c90:0] exited with code [0] via signal [SIGINT]
+2025-05-18T23:24:24: PM2 log: pid=40907 msg=process killed
+2025-05-18T23:24:28: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-18T23:24:28: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-19T06:40:54: PM2 log: Stopping app:40a7bbeae3619c90 id:0
+2025-05-19T06:40:54: PM2 log: App [40a7bbeae3619c90:0] exited with code [0] via signal [SIGINT]
+2025-05-19T06:40:54: PM2 log: pid=41924 msg=process killed
+2025-05-19T06:42:06: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-19T06:42:06: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-19T06:42:19: PM2 log: App [40a7bbeae3619c90:0] exited with code [1] via signal [SIGINT]
+2025-05-19T06:42:19: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-19T06:42:19: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-19T06:42:32: PM2 log: App [40a7bbeae3619c90:0] exited with code [1] via signal [SIGINT]
+2025-05-19T06:42:32: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-19T06:42:32: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-19T06:42:45: PM2 log: App [40a7bbeae3619c90:0] exited with code [1] via signal [SIGINT]
+2025-05-19T06:42:45: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-19T06:42:45: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-19T06:42:58: PM2 log: App [40a7bbeae3619c90:0] exited with code [1] via signal [SIGINT]
+2025-05-19T06:42:58: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-19T06:42:58: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-19T06:43:11: PM2 log: App [40a7bbeae3619c90:0] exited with code [1] via signal [SIGINT]
+2025-05-19T06:43:11: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-19T06:43:11: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-19T06:43:24: PM2 log: App [40a7bbeae3619c90:0] exited with code [1] via signal [SIGINT]
+2025-05-19T06:43:24: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-19T06:43:24: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-19T06:43:37: PM2 log: App [40a7bbeae3619c90:0] exited with code [1] via signal [SIGINT]
+2025-05-19T06:43:37: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-19T06:43:37: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-19T06:43:50: PM2 log: App [40a7bbeae3619c90:0] exited with code [1] via signal [SIGINT]
+2025-05-19T06:43:50: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-19T06:43:50: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-19T06:44:03: PM2 log: App [40a7bbeae3619c90:0] exited with code [1] via signal [SIGINT]
+2025-05-19T06:44:03: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-19T06:44:03: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-19T06:44:04: PM2 log: Stopping app:40a7bbeae3619c90 id:0
+2025-05-19T06:44:04: PM2 log: App [40a7bbeae3619c90:0] exited with code [0] via signal [SIGINT]
+2025-05-19T06:44:04: PM2 log: pid=45678 msg=process killed
+2025-05-19T19:03:37: PM2 log: App [40a7bbeae3619c90:0] starting in -fork mode-
+2025-05-19T19:03:37: PM2 log: App [40a7bbeae3619c90:0] online
+2025-05-20T14:22:25: PM2 log: Stopping app:40a7bbeae3619c90 id:0
+2025-05-20T14:22:25: PM2 log: pid=122359 msg=failed to kill - retrying in 100ms
+2025-05-20T14:22:25: PM2 log: pid=122359 msg=failed to kill - retrying in 100ms
+2025-05-20T14:22:25: PM2 log: App [40a7bbeae3619c90:0] exited with code [0] via signal [SIGINT]
+2025-05-20T14:22:25: PM2 log: pid=122359 msg=process killed

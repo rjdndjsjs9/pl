@@ -1,0 +1,12 @@
+{
+  "devices": [
+    {
+      "sessionId": "device1",
+      "phoneNumber": "6288227606701"
+    },
+    {
+      "sessionId": "device2",
+      "phoneNumber": "6285174197856"
+    }
+  ]
+}
